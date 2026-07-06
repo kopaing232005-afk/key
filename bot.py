@@ -12,7 +12,7 @@ import os
 
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
-BOT_TOKEN = "8977269583:AAELV4xBTgQDftA3I8z5hCXELOwHHIh0I-I"
+BOT_TOKEN = "8954515647:AAHWni9Tv_xHtlVUGLH_J46-mw-1YnCzIaQ"
 GITHUB_TOKEN = "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"
 REPO_OWNER = "kopaing232005-afk"
 REPO_NAME = "key"
