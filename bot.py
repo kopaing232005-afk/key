@@ -13,12 +13,12 @@ import os
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
 BOT_TOKEN = "8977269583:AAELV4xBTgQDftA3I8z5hCXELOwHHIh0I-I"
-GITHUB_TOKEN = "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"
-REPO_OWNER = "silintun18-debug"
+GITHUB_TOKEN = "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"
+REPO_OWNER = "kopaing232005-afk"
 REPO_NAME = "key"
 FILE_PATH = "key.json"
 
-ADMIN_IDS = [7632580640, 8309442341, 8364782937]
+ADMIN_IDS = [7070690379]
 GITHUB_API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/contents/{FILE_PATH}"
 
 RENDER_APP_URL = os.getenv("RENDER_EXTERNAL_URL", "https://key-rkwt.onrender.com")
