@@ -1,64 +1,9 @@
 {
     "devices": [
         {
-            "id": "9D9BC3ED",
-            "status": "active",
-            "expire": "2027-06-24 16:39"
-        },
-        {
-            "id": "1DA97F64F0",
-            "status": "active",
-            "expire": "2027-04-25 15:07"
-        },
-        {
-            "id": "1DA97F64",
-            "status": "active",
-            "expire": "2026-09-27 13:20"
-        },
-        {
-            "id": "2463C0AA",
-            "status": "active",
-            "expire": "2027-06-25 17:12"
-        },
-        {
-            "id": "FFD136D5",
-            "status": "active",
-            "expire": "2026-08-02 16:15"
-        },
-        {
-            "id": "657008F0FD",
-            "status": "active",
-            "expire": "2028-12-19 21:07"
-        },
-        {
-            "id": "8797D803D4",
-            "status": "active",
-            "expire": "2027-06-30 11:03"
-        },
-        {
-            "id": "2EEDC4F871",
-            "status": "active",
-            "expire": "2026-07-07 10:36"
-        },
-        {
-            "id": "6248AC9D72",
-            "status": "active",
-            "expire": "9999-07-07 14:33"
-        },
-        {
             "id": "6248AC9D",
             "status": "active",
-            "expire": "9999-07-07 15:19"
-        },
-        {
-            "id": "5485201E",
-            "status": "active",
-            "expire": "2026-08-05 17:07"
-        },
-        {
-            "id": "D41D8CD9",
-            "status": "active",
-            "expire": "2026-08-05 23:53"
+            "expire": "99999-07-07 15:19"
         }
     ]
 }
